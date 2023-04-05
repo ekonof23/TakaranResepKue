@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.resepkue">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ResepKue"
+        tools:targetApi="31">
+        <activity
+            android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".PerhitunganBikaAmbon"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKuePukis"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganBakpao"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKuePutuMayang"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKueSerabi"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKueMangkok"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKueNagasari"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganApemKukus"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKueMolen"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKueLemet"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKueCucur"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganOndeOnde"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKueLumpur"
+            android:exported="false"
+            android:label="Menghirung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganCakwe"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganBoluPanggang"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganBoluKukus"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganKueLapis"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganDadarGulung"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".HistoriResepPutuAyu"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".PerhitunganPutuAyu"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".ResepBikaAmbon"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepKuePukis"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepBakpao"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepPutuMayang"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepKueSerabi"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepKueMangkok"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepKueNagasari"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepApemKukus"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepKueMolen"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepKueLemet"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepKueCucur"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepOndeOnde"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepKueLumpur"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepCakwe"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepBoluPanggang"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepBoluKukus"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepKueLapis"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepDadarGulung"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".ResepPutuAyu"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".Profil"
+            android:exported="false"
+            android:label="Profil Pengembang"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PerhitunganGelek"
+            android:exported="false"
+            android:label="Menghitung Resep"
+            android:parentActivityName=".DaftarPerhitungan" />
+        <activity
+            android:name=".ResepGelek"
+            android:exported="false"
+            android:label="Detail Resep"
+            android:parentActivityName=".DaftarResep" />
+        <activity
+            android:name=".DaftarPerhitungan"
+            android:exported="false"
+            android:label="Memilih Perhitungan Resep"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Histori"
+            android:exported="false"
+            android:label="Histori Resep Kue"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DaftarResep"
+            android:exported="false"
+            android:label="Memilih Resep"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
+        </activity>
+    </application>
+
+</manifest>

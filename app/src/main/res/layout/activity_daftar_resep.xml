@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/textview_shape"
+            android:gravity="center"
+            android:layout_margin="27dp"
+            android:padding="10dp"
+            android:text="Pilihan Resep"
+            android:textAlignment="center"
+            android:fontFamily="@font/poppinsextra"
+            android:textColor="@color/white"
+            android:textSize="20pt" />
+
+        <Button
+            android:id="@+id/rsp_gelek"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:drawableLeft="@drawable/angka_1"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"
+            android:text="Kue Gelek"
+            android:textSize="28dp" />
+
+        <Button
+            android:id="@+id/rsp_putuayu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Putu Ayu"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_2"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_dadargulung"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Dadar Gulung"
+            android:textSize="27dp"
+            android:drawableLeft="@drawable/angka_3"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kuelapis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Kue Lapis"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_4"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_bolukukus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Bolu Kukus"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_5"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_bolupanggang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Bolu Panggang"
+            android:textSize="27dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_6"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_cakwe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Cakwe"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_7"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kuelumpur"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Kue Lumpur"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_8"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_ondeonde"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Onde-onde"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_9"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kuecucur"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Kue Cucur"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_10"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kuelemet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Kue Lemet"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_11"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kuemolen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Kue Molen"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_12"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_apemkukus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Apem Kukus"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_13"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kuenagasari"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Nagasari"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_14"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kuemangkok"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Kue Mangkok"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_15"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kueserabi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Kue Serabi"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_16"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kueputumayang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Putu Mayang"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_17"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_bakpao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Bakpao"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_18"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_kuepukis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/bg"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Kue Pukis"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_19"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+        <Button
+            android:id="@+id/rsp_bikaambon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/poppinsextra"
+            android:text="Bika Ambon"
+            android:textSize="28dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/angka_20"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"/>
+
+
+    </LinearLayout>
+</ScrollView>
+
+

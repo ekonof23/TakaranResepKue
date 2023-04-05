@@ -1,0 +1,554 @@
+<resources>
+    <string name="app_name">Resep Kue</string>
+    <string name="nama_profil">Nama   : Eko Nofiyanto</string>
+    <string name="Heading_gelek1">Bahan-bahan</string>
+    <string name="Heading_putuayu1">Bahan-bahan</string>
+    <string name="Heading_dadargulung1">Bahan-bahan</string>
+    <string name="Heading_kuelapis1">Bahan-bahan</string>
+    <string name="Heading_bolukukus1">Bahan-bahan</string>
+    <string name="Heading_bolupanggang1">Bahan-bahan</string>
+    <string name="Heading_cakwe1">Bahan-bahan</string>
+    <string name="Heading_kuelumpur1">Bahan-bahan</string>
+    <string name="Heading_ondeonde1">Bahan-bahan</string>
+    <string name="Heading_kuecucur1">Bahan-bahan</string>
+    <string name="Heading_kuelemet1">Bahan-bahan</string>
+    <string name="Heading_kuemolen1">Bahan-bahan</string>
+    <string name="Heading_apemkukus1">Bahan-bahan</string>
+    <string name="Heading_kuenagasari1">Bahan-bahan</string>
+    <string name="Heading_kuemangkok1">Bahan-bahan</string>
+    <string name="Heading_kueserabi1">Bahan-bahan</string>
+    <string name="Heading_kueputumayang1">Bahan-bahan</string>
+    <string name="Heading_bakpao1">Bahan-bahan</string>
+    <string name="Heading_kuepukis1">Bahan-bahan</string>
+    <string name="Heading_bikaambon1">Bahan-bahan</string>
+
+    <string name="Heading_gelek2">Cara Pembuatan</string>
+    <string name="Heading_putuayu2">Cara Pembuatan</string>
+    <string name="Heading_dadargulung2">Cara Pembuatan</string>
+    <string name="Heading_kuelapis2">Cara Pembuatan</string>
+    <string name="Heading_bolukukus2">Cara Pembuatan</string>
+    <string name="Heading_bolupanggang2">Cara Pembuatan</string>
+    <string name="Heading_cakwe2">Cara Pembuatan</string>
+    <string name="Heading_kuelumpur2">Cara Pembuatan</string>
+    <string name="Heading_ondeonde2">Cara Pembuatan</string>
+    <string name="Heading_kuecucur2">Cara Pembuatan</string>
+    <string name="Heading_kuelemet2">Cara Pembuatan</string>
+    <string name="Heading_kuemolen2">Cara Pembuatan</string>
+    <string name="Heading_apemkukus2">Cara Pembuatan</string>
+    <string name="Heading_kuenagasari2">Cara Pembuatan</string>
+    <string name="Heading_kuemangkok2">Cara Pembuatan</string>
+    <string name="Heading_kueserabi2">Cara Pembuatan</string>
+    <string name="Heading_kueputumayang2">Cara Pembuatan</string>
+    <string name="Heading_bakpao2">Cara Pembuatan</string>
+    <string name="Heading_kuepukis2">Cara Pembuatan</string>
+    <string name="Heading_bikaambon2">Cara Pembuatan</string>
+
+    <string name="article_text_gelek">
+        <br>1. Terigu\n
+            2. Gula\n
+            3. Mentega\n
+            4. Mauripan\n
+            5. Soda\n
+            6. Panili\n
+            7. Garam\n
+            8. Air hangat
+        </br>
+    </string>
+
+    <string name="article_textgelek2">
+        <br>1. Masukkan dalam satu wadah gula, air hangat, mentega.Campurkan,aduk bahan-bahan tersebut sampai gulanya menyatu dengan air.\n
+            2. Tambahkan terigu sedikit,mauripan,soda,panili kemudian campurkan,aduk sampai rata.\n
+            3. Masukkan terigu sedikit demi sedikit sambal diaduk terus.\n
+            4. Setelah tercampur rata,tambahkan garam.\n
+            5. Aduk sampai rata kemudian adonan diistirahatkan kurang lebih 5 jam.\n
+            6. Panaskan minyak dengan api kecil. Adonan kue dibuat memanjang kemudian dipotong-potong sesuai keinginan . Setelah panas, masukan adonan gelek dan goreng hingga kedua sisi berubah warna menjadi coklat keemasan. Lalu angkat dan tiriskan. Ulangi menggoreng hingga adonan mentah habis.
+        </br>
+    </string>
+
+    <string name="article_text_putuayu">
+        <br>1. Tepung terigu protein rendah atau sedang\n
+            2. Tepung Maizena\n
+            3. Gula Pasir\n
+            4. Telur\n
+            5. SP\n
+            6. Panili\n
+            7. Garam\n
+            8. Santan instan\n
+            9. Pasta pandan\n
+            10. Minyak goreng (untuk olesan secukupnya)\n
+            11. Daun pandan\n
+            12. Air\n
+            TOPPING :
+            1. Kelapa parut\n
+            2. Tepung maizena\n
+            3. Garam
+        </br>
+    </string>
+
+    <string name="article_textputuayu2">
+        <br>1. Siapkan panci kukusan/dandang dan panaskan di atas kompor. Sisihkan.\n
+            2. Siapkan cetakan putu ayu. Oles tipis-tipis dengan minyak. Sisihkan.\n
+            3. Dalam wadah, campur rata semua bahan topping. Ambil 1 sdt adonan topping lalu taruh dan ratakan di dasar cetakan. Tekan-tekan hingga padat. Lakukan hingga semua adonan topping habis. Sisihkan.\n
+            4. Dalam wadah, campur rata santan, pasta pandan, dan sari pandan. Sisihkan.\n
+            5. Dalam wadah, kocok gula pasir, telur, SP, vanili, dan garam hingga mengembang kaku.\n
+            6. Masukkan tepung terigu berganti-gantian dengan larutan santan dan pandan. Aduk balik dengan spatula hingga rata. \n
+            7. Masukkan adonan ke dalam plastik segitiga. Gunting ujungnya lalu semprotkan ke dalam cetakan kue putu ayu (di atas parutan kelapa) hingga penuh. Lakukan hingga habis dan semua cetakan terisi. \n
+            8. Kukus putu ayu selama 20 menit hingga matang. Angkat dan keluarkan dari cetakan. \n
+            9. Siap disajikan.
+        </br>
+    </string>
+
+
+    <string name="article_text_dadargulung">
+        <br>1. Tepung terigu\n
+            2. Telur\n
+            3. Santan\n
+            4. Garam\n
+            5. Pasta pandan\n
+            6. Minyak goreng\n
+            Isi
+            1. Kelapa parut\n
+            2. Gula jawa\n
+            3. Garam\n
+            4. Daun pandan\n
+            5. Daun jeruk\n
+        </br>
+    </string>
+
+    <string name="article_textdadargulung2">
+        <br>Cara Membuat Kulit\n
+            1. Dalam panci, rebus santan sedang dan tambahkan garam. Aduk terus hingga mendidih. Matikan api dan biarkan dingin. Dalam panci, rebus santan sedang dan tambahkan garam. Aduk terus hingga mendidih. Matikan api dan biarkan dingin.\n
+            2. Dalam wadah, campur tepung terigu, telur, dan minyak goreng. Aduk rata.\n
+            3. Tuang santan sedikit demi sedikit sambil terus diaduk hingga licin dan tidak bergerindil. Tambahkan pasta pandan. Aduk rata.\n
+            4. Panaskan wajan datar anti lengket atau teflon. Tuang 1 sendok sayur adonan. Ratakan adonan hingga menutupi seluruh permukaan wajan. Masak dengan api kecil hingga matang dan tidak lengket lagi. Angkat. Lakukan terus hingga adonan habis.\n
+            Cara membuat Isi\n
+            1. Dalam wadah, kocok gula pasir, telur, SP, vanili, dan garam hingga mengembang kaku.\n
+            2. Masukkan tepung terigu berganti-gantian dengan larutan santan dan pandan. Aduk balik dengan spatula hingga rata. \n
+            Penyelesaian
+            1. Ambil 1 lembar kulit. Beri 1 sdm bahan isian. \n
+            2. Lipat jadi seperti amplop lalu gulung. Lakukan terus hingga habis. \n
+            3. Siap disajikan.
+        </br>
+    </string>
+
+    <string name="article_text_kuelapis">
+        <br>1. Tepung beras\n
+            2. Gula pasir\n
+            3. Tepung Kanji\n
+            4. Air santan dari\n
+            5. Pewarna makanan hijau \n
+            6. Daun pandan diikat simpul\n
+            7. Garam\n
+            8. Vanili bubuk\n
+            9. Minyak goreng (untuk olesan secukupnya)\n
+        </br>
+    </string>
+
+    <string name="article_textkuelapis2">
+        <br>1. Rebus air santan dengan garam dan daun pandan sampai mendidih. lalu angkat dan dinginkan air santan. sisihkan.\n
+            2. Campurkan tepung beras, tepung kanji, gula pasir, dan vanili bubuk dalam wadah besar. aduk semua bahan sampai tercampur.\n
+            3. Kemudian tuang air santan yang sudah dingin ke dalam adonan sedikit-demi sedikit sambil terus diaduk. aduk adonan sampai licin dan merata.\n
+            4. Kemudian bagi adonan menjadi 2 dalam 2 wadah yang berbeda. 1 adonan diberi pewarna makanan hijau secukupnya dan aduk rata.\n
+            5. Sedangkan adonan yang satunya biarkan berwarna putih. sisihkan adonan.\n
+            6. Panaskan dandang atau pengukus sampai airnya mendidih. \n
+            7. Siapkan loyang untuk cetakan kue lapis. olesi loyang dengan minyak dan alasi dengan plastik biar tidak lengket. \n
+            8. Lalu masukkan dan panaskan loyang dalam pengukus. \n
+            9. Setelah loyang panas, tuang adonan putih secukupnya ke dalam loyang untuk lapisan pertama. lalu kukus adonan dan tutup dengan serbet bersih selama 5 menit sampai tekturnya mengeras.\n
+            10.Setelah 5 menit, tuang adonan yang berwarna hijau diatasnya. kukus lagi selama 5 menit sampai mengeras. lalukan proses ini secara berulang sampai adonan habis dengan warna berseling putih-hijau agar terlihat lapisan nya saat diiris.\n
+            11.Setelah semua bahan habis, kukus kembali adonan selama kurang lebih 10 menit agar kue lapis benar-benar matang sempurna.\n
+            12.Setelah matang, angkat loyang dari dalam kukusan. diamkan beberapa saat sampai dingin.\n
+            13.Setelah dingin, angkat kue lapis dari dlam loyang dan potong-potong sesuai selera.\n
+            14.Kue lapis siap disajikan\n
+        </br>
+    </string>
+
+    <string name="article_text_bolukukus">
+        <br>1. Terigu protein sedang\n
+            2. Gula pasir\n
+            3. Air soda\n
+            4. Telur\n
+            5. Cake emulfisier\n
+        </br>
+    </string>
+
+    <string name="article_textbolukukus2">
+        <br>1. Siapkan wadah bersih, tuang semua bahan ke dalam wadah.\n
+            2. Kocok dengan hand mixer hingga kental.\n
+            3. Ambil sebagian adonan, beri warna sesuai selera.\n
+            4. Tuang adonan putih dan adonan warna ke dalam cetakan bolu kukus yang sudah dialasi dengan kertas tanpa dioles margarin.\n
+            5. Kukus dalam panci pengukus yang sudah beruap banyak selama 20 menit. Angkat dan keluarkan dari cetakan.  Sajikan bolu kukus jadul untuk hidangan di akhir pekan.\n
+        </br>
+    </string>
+
+    <string name="article_text_bolupanggang">
+        <br>1. Tepung terigu\n
+            2. Gula pasir\n
+            3. Tepung maizena\n
+            4. Telur\n
+            5. SP (emulsifier)\n
+            6. Baking powder\n
+            7. Susu bubuk\n
+            8. Margarin cair\n
+            9. Susu kental manis\n
+            10.vanili cair (opsional)\n
+            11.Margarin dan Tepung Terigu (untuk olesan)\n
+        </br>
+    </string>
+
+    <string name="article_textbolupanggang2">
+        <br>1. Siapkan wadah bersih berukuran agak besar, lalu masukkan telur dan gula pasir.\n
+            2. Campur adonan dengan menggunakan mixer kecepatan tinggi hingga gula pasir larut.\n
+            3. Masukkan SP (emulsifier) lalu aduk kembali dengan menggunakan mixer kecepatan tinggi. Pastikan hingga adonan tampak berwarna putih, mengambang dan berjejak.\n
+            4. Pada wadah terpisah, campurkan tepung terigu, tepung maizena dan susu bubuk. Ayak ketiga bahan tersebut agar tidak menggumpal lalu masukkan ke dalam wadah berisi adonan.\n
+            5. Aduk kembali semua bahan menggunakan mixer kecepatan rendah. Pastikan tidak ada yang bagian menggumpal.\n
+            6. Tuangkan susu kental manis ke dalam adonan. Aduk kembali menggunakan mixer kecepatan rendah.\n
+            7. Masukkan vanili cair secukupnya ke dalam adonan, lalu aduk dengan menggunakan spatula. Aduk adonan dengan gerakan melipat (folding) untuk memastikan tidak ada bahan yang menggumpal ataupun cairan yang mengendap.\n
+            8. Tuangkan margarin cair secara bertahap sambil terus mengaduk adonan.\n
+            9. Siapkan loyang, olesi terlebih dahulu dengan margarin dan taburan tipis tepung terigu.\n
+            10.Tuangkan adonan bolu ke dalam loyang kemudian hentakkan loyang hingga beberapa kali untuk memastikan tidak ada endapan bahan dan gelembung udara.\n
+            11.Panaskan oven, lalu letakkan loyang berisi adonan bolu pada rak oven bagian bawah. Panggang bolu dengan suhu 150°c selama 25 menit atau hingga adonan matang.\n
+            12.Keluarkan loyang dari oven. Cek kematangan adonan bolu dengan menggunakan tusuk gigi bersih. Apabila tidak ada adonan yang menempel pada tusuk gigi, itu tandanya bolu sudah matang dan siap diangkat.\n
+            13.Keluarkan bolu dari loyang, lalu potong-potong sesuai selera.\n
+            14.Kue bolu panggang yang lembut dan empuk siap disajikan.
+        </br>
+    </string>
+
+    <string name="article_text_cakwe">
+        <br>1. Terigu protein tinggi\n
+            2. Gula pasir\n
+            3. Baking powder\n
+            4. Ragi instan\n
+            5. Minyak goreng\n
+        </br>
+    </string>
+
+    <string name="article_textcakwe2">
+        <br>1. Masukan dalam satu wadah tepung terigu, gula dan baking powder. Beri air putih sedikit demi sedikit sambil diulenu. Setelah setengah kalis, tambahkan minyak goreng 1 sendok makan dan garam.\n
+            2. Uleni kembali hingga kalia, lallu bulatkan dan diamkan sambil ditutup serbet selama 1 jam atau hingga adonan mengembang 2 kali lipat.\n
+            3. Setelah mengembang, kempeskan adonan lalu uleni sebentar. Gilas adonan, lalu potong sama panjang dan sama lebar. Bentuk adonan dengan sumpit agar adonan memiliki garis.\n
+            4. Panaskan minyak dengan api kecil. Setelah panas, masukan adonan cakwe dan goreng hingga kedua sisi berubah warna menjadi coklat keemasan. Lalu angkat dan tiriskan. Ulangi menggoreng hingga adonan mentah habis.\n
+            5. Letakan pada piring saji dan beri saos sambal untuk cocolannya supaya lebih nikmat.\n
+        </br>
+    </string>
+
+    <string name="article_text_kuelumpur">
+        <br>Bahan A
+            1. Air\n
+            2. Gula\n
+            3. Mentega\n
+            4. Vanili\n
+            Bahan B\n
+            1. Tepung terigu\n
+            Bahan C\n
+            1. Kental manis putih\n
+            2. Air\n
+            3. Telur ayam
+        </br>
+    </string>
+
+    <string name="article_textkuelumpur2">
+        <br>1. Campur semua bahan A di panci. Masak hingga gula larut dan mendidih\n
+            2. Masukkan tepung terigu ke panci. Aduk cepat hingga kalis. Matikan kompor. Diamkan hingga adonan menjadi hangat.\n
+            3. Pindahkan adonan ke wadah.\n
+            4. Masukkan telur ke adonan, kocok dengan mixer.\n
+            5. Tuang air dan kental manis sedikit demi sedikit ke adonan sambil dikocok dengan mixer hingga adonan menjadi kental dan tidak bergerindil.\n
+            6. Panaskan cetakan yang sudah diolesi minyak goreng.\n
+            7. Tuang adonan ke cetakan. Tambahkan kismis (bila suka). Panggang hingga matang.\n
+        </br>
+    </string>
+
+    <string name="article_text_ondeonde">
+        <br>Bahan Isi\n
+            1. Kacang hijau kupas (direndam selama 1jam)\n
+            2. Gula pasir\n
+            3. Daun pandan diikat simpul\n
+            4. Garam\n
+            5. Santan kelapa\n
+            Bahan Kulit\n
+            1. Tepung ketan putih\n
+            2. Garam\n
+            3. Kentang kukus dihaluskan\n
+            4. Gula pasir halus\n
+            5. Air hangat\n
+            6. Wijen untuk pelapis\n
+            7. Minyak untuk menggoreng
+        </br>
+    </string>
+
+    <string name="article_textondeonde2">
+        <br>1. Isi :kukus kacang hijau kupas selama 25 menit. Angkat, lalu blender halus bersama santan.\n
+            2. Di dalam panci, masak kacang hijau yg sudah di haluskan bersama sisa santan, gula pasir, garam dan daun pandan. Aduk sampai kalis, biarkan dingin bentuk bulat, supaya rapi bisa di timbang. Masing-masing 15 gr sisihkan.\n
+            3. Kulit : Campur tepung ketan putih, kentang kukus, gula pasir halus dan garam aduk rata.\n
+            4. Tuang air hangat sedikit-sedikit sampai kalis dan licin.\n
+            5. Timbang masing-masing 25 gr, pipihkan, beri isi bentuk bulat, lakukan sampai adonan habis.\n
+
+        </br>
+    </string>
+
+    <string name="article_text_kuecucur">
+        <br>1. Tepung beras\n
+            2. Terigu kunci\n
+            3. Gula merah\n
+            4. Gula pasir\n
+            5. Air vanili dan pandan\n
+        </br>
+    </string>
+
+    <string name="article_textkuecucur2">
+        <br>1. Gula merah, gula pasir, air, vanili, dan pandan dimasak hingga mendidih.\n
+            2. Tepung beras dan terigu diaduk jadi satu.\n
+            3. Setelah air gula mendidih, masukkan ke tepung sambil diaduk hingga rata.\n
+            4. Dengan menggunakan sendok sayur, aduk terus sampai ada gelembung. Diamkan selama kurang lebih dua jam.\n
+            5. Goreng menggunakan minyak dan dengan api sedang sambil disiram-siram dengan minyaknya supaya keluar rintik-rintiknya.\n
+            6. Angkat sebentar dan balik posisinya. Masak hingga matang. Sajikan.\n
+        </br>
+    </string>
+
+    <string name="article_text_kuelemet">
+        <br>1. Singkong\n
+            2. Kelapa sedang,parut\n
+            3. Gula aren,sisir halus\n
+            4. Gula pasir\n
+            5. Garam\n
+            6. Daun pandan, potong-potong\n
+            7. Daun pisang
+        </br>
+    </string>
+
+    <string name="article_textkuelemet2">
+        <br>1. Kupas singkong, cuci bersih lalu parut halus. Peras sedikit airnya.\n
+            2. Taruh singkong parut dalam wadah bersih. Tambahkan kelapa oarut, aduk rata.\n
+            3. Masukkan gula aren, gula pasir dan garam. Aduk-aduk hingga gula tercampur rata dengan singkong.\n
+            4. Ambil selembar daun pisang, taruh sepotong daun pandan, tambahkan 2 sdm adonan singkong di atasnya.\n
+            5. Gulung seperti kue pisang tetapi sedikit panjang. Semat kedua ujungnya dengan lidi sehingga bentuknya seperti pepes.\n
+            6. Kukus dalam kukusan panas selama 30 menit.\n
+            7. Angkat dan dinginkan.
+        </br>
+    </string>
+
+    <string name="article_text_kuemolen">
+        <br>1. Tepung terigu\n
+            2. Tepung maizena\n
+            3. Gula halus\n
+            4. Mentega cair\n
+            5. Air\n
+            6. Garam\n
+            7. Vanila bubuk cair\n
+            8. Pisang
+        </br>
+    </string>
+
+    <string name="article_textkuemolen2">
+        <br>1. Kupas pisang Iris2 menyerong sisihkan.\n
+            2. Campur semua bahan kulit ulenin sebentar lalu istirahatkan di kulkas selama 1 jam.\n
+            3. Ambil adonan dan bagi menjadi 10 bagian bulat2 kan dan lonjongkan kemudian di gilas tipis lalu kasi pisang gulung dg rapi.\n
+            4. Panaskan minyak dan goreng molen sampai kuning keemasan setelah matang angkat dan sajikan.\n
+        </br>
+    </string>
+
+    <string name="article_text_apemkukus">
+        <br>1. Tepung beras\n
+            2. Santan kental\n
+            3. Tepung terigu serba guna\n
+            4. Gula pasir\n
+            5. Air\n
+            6. Ekstrak vanila\n
+            7. Garam\n
+            8. Daun pandan, ikat simpul\n
+            9. Ragi\n
+            10.Baking powder\n
+            11.Pewarna makanan merah,secukupnya\n
+        </br>
+    </string>
+
+    <string name="article_textapemkukus2">
+        <br>1. Masak santan, air, gula pasir, ekstrak vanila, garam, dan daun pandan di atas api kecil hingga mendidih.\n
+            2. Angkat, biarkan hingga suhu hangat kuku. Sisihkan daun pandan.\n
+            3. Tuang santan ke dalam wadah, tambahkan tepung beras, tepung terigu, ragi, baking powder, dan pewarna makanan merah, aduk menggunakan whisk hingga licin.\n
+            4. Tutup wadah dengan kain bersih, istirahatkan adonan hingga berbuih (30 - 45 menit). Saring adonan.\n
+            5. Tuang adonan ke dalam cetakan kue mangkok (@ volume 75 ml) yang sudah dipanaskan hingga penuh.\n
+            6. Kukus dalam dandang panas hingga kue matang dan merekah (± 15 menit).\n
+            7. Angkat, keluarkan dari cetakan. Sajikan segera.\n
+        </br>
+    </string>
+
+    <string name="article_text_kuenagasari">
+        <br>1. Tepung beras\n
+            2. Tapioka\n
+            3. Mentega\n
+            4. Gula pasir\n
+            5. Daun pandan\n
+            6. Pisang raja matang, potong-potong\n
+            7. Garam\n
+            8. Santan kental
+        </br>
+    </string>
+
+    <string name="article_textkuenagasari2">
+        <br>1. Campur semua bahan jadi satu, saring bila perlu agak tidak bergerindil.\n
+            2. Masak dengan api kecil hingga mengental dan terus di Aduk.\n
+            3. Lalu, lipat adonan menggunakan daun pisang seperti amplop.\n
+            4. Kukus selama 25 menit hingga matang.\n
+            5. Angkat dan nagasari siap untuk dinikmati.\n
+        </br>
+    </string>
+
+    <string name="article_text_kuemangkok">
+        <br>1. Tepung beras (rosebrand)\n
+            2. Terigu (segitiga)\n
+            3. Ragi instant (saf)\n
+            4. Gula pasir\n
+            5. Air\n
+            6. Baking powder \n
+            7. Pewarna makanan: merah muda, hijau, kuning\n
+        </br>
+    </string>
+
+    <string name="article_textkuemangkok2">
+        <br>1. Didalam baskom campur tepung beras, terigu dan ragi instant. Sisihkan dulu.\n
+            2. Dalam panci kecil campur gula pasir dan air. Panaskan sambil diaduk hingga gula larut. Tidak perlu sampai mendidih. Biarkan sampai air gula menjadi hangat.\n
+            3. Masukan larutan gula ke campuran tepung dan ragi instant sambil diaduk hingga rata, tidak ada yang bergerindil.\n
+            4. Tutup baskom, istirahatkan, set timer 30 menit.\n
+            5. Setelah 30 menit mulai panaskan kukusan dengan api besar. Letakan cetakan kue mangkok ke dalam kukusan. Cetakan, tanpa oles apapun, ikut dipanaskan hingga kukusan beruap banyak.\n
+            6. Tambahkan baking soda ke dalam adonan yang telah diistirahatkan, aduk rata.\n
+            7. Bagi 3 bagian dan beri pewarna makanan. Aduk rata masing masing. Tuang adonan ke cetakan kue mangkok dalam kukusan. Cetakan diisi penuh, tapi jangan sampai luber. Tutup kukusan dan kukus selama 15 menit dengan api besar\n
+            8. Setelah matang, angkat dari kukusan, biarkan hangat di cooling rack baru keluarkan dari cetakan. Untuk memudahkan mengeluarkan dari cetakan selipkan tusuk sate bersih, lalu geser mengikuti cetakan agar lepas dari cetakan.\n
+        </br>
+    </string>
+
+    <string name="article_text_kueserabi">
+        <br>1. Tepung beras\n
+            2. Gula pasir\n
+            3. Mentega\n
+            4. Ragi instan\n
+            5. Telur\n
+            6. Santan\n
+            7. Garam\n
+            8. Daun pandan\n
+            Bahan kuah \n
+            1. Santan\n
+            2. Daun pandan\n
+            3. Garam\n
+            Topping \n
+            Keju, meises atau sesuai selera
+        </br>
+    </string>
+
+    <string name="article_textkueserabi2">
+        <br>1. Masak kuah, rebus santan, garam, dan daun pandan sambil diaduk dengan api kecil sampai kental. Sisihkan.\n
+            2. Panaskan wajan tanah liat yang diberi parutan kelapa. Aduk-aduk kelapa sampai berminyak. Buang kelapanya dan panaskan 5 menit lagi dengan api sedang.\n
+            3. Rebus santan, daun pandan dan garam sambil diaduk sampai mendidih. Ukur 450 ml santan. Biarkan hangat.\n
+            4. Campur tepung terigu, ragi, gula pasir, dan garam. Aduk rata. Tambahkan telur. Aduk rata.\n
+            5. Tuang santan sedikit-sedikit sambil diuleni dan dikocok perlahan 15 menit. Diamkan 1 jam.\n
+            6. Lalu tuang adonan di wajan. Tekan dan putar bagian tengahnya sehingga berkulit bagian sisinya. Biarkan mengembang dan berlubang-lubang.\n
+            7. Kemudian tuang areh sedikit di atasnya, tabur topping sesuai selera, tutup. Kecilkan api, masak sampai matang.\n
+        </br>
+    </string>
+
+    <string name="article_text_kueputumayang">
+        <br>1. Tepung beras\n
+            2. Air santan\n
+            3. Garam\n
+            4. Tepung kanji\n
+            5. Pewarna makanan hijau dan merah\n
+            6. Daun pisang\n
+            Bahan kuah air gula\n
+            1. Gula merah\n
+            2. Gula pasir\n
+            3. Air santan\n
+            4. Daun pandan diikat simpul\n
+        </br>
+    </string>
+
+    <string name="article_textkueputumayang2">
+        <br>1. Campurkan tepung beras, garam, dan air santan dalam panci. Aduk rata menggunakan whisk agar tidak ada adonan yang menggumpal.\n
+            2. Masak adonan di atas api sedang sampai adonan menggumpal sambil terus diaduk.\n
+            3. Setelah menggumpal, diamkan adonan sebentar sampai uap panasnya hilang.\n
+            4. Setelah agak dingin baru campurkan dengan tepung kanji dan uleni sampai adonan kalis dan tercampur rata.\n
+            5. Lalu bagi adonan menjadi 3 bagian. Yang pertama beri pewarna hijau, kedua beri warna merah, dan yang ketiga biarkan adonan berwarna putih. Uleni sampai adonan berubah warna secara menyeluruh.\n
+            6. Siapkan daun pisang dan olesi dengan sedikit minyak goreng agar tidak lengket. Daun pisang digunakan untuk alas putu matang.\n
+            7. Setelah itu, masukkan adonan secukupnya ke dalam cetakan putu mayang. Tekan dan taruh putu mayang yang berbentuk seperti gulungan mie di atas daun pisang yang sudah kamu siapkan tadi.\n
+            8. Lakukan proses ini sampai semua bahan habis. Baru kukus adonan putu sampai matang merata selama 20 menit.\n
+            9. Setelah 20 menit, matikan kompor dan diamkan putu mayang agar uap dinginnya hilang. Angkat putu mayang dari alas daun pisang. Sisihkan,\n
+            10.Sedangkan untuk membuat kuah gulanya, kamu hanya perlu siapkan panci bersih dan masukkan semua bahan yaitu air santan, gula merah, gula pasir, dan daun pandan.\n
+            11.Masak sampai gula larut dan kuah mendidih. Setelah mendidih, matikan kompor.\n
+            12.Siapkan mangkuk dan taruh beberapa putu mayang sesuai selera. Baru tuang dengan kuah gula secukupnya. Kue putu mayang siap disajikan selagi hangat.\n
+        </br>
+    </string>
+
+    <string name="article_text_bakpao">
+        <br>Bahan Biang\n
+            1. Susu bubuk putih\n
+            2. Gula pasir\n
+            3. Ragi kering\n
+            4. Air hangat\n
+            Bahan Adonan\n
+            1. Tepung terigu\n
+            2. Baking powder\n
+            3. Garam halus\n
+            4. Margarin\n
+            Bahan Isi
+            1. dark cooking chocolate, potong dadu
+        </br>
+    </string>
+
+    <string name="article_textbakpao2">
+        <br>1. Campur semua bahan biang. Aduk rata. Diamkan selama 5 menit hingga berbuih.\n
+            2. Dalam wadah, campur semua bahan adonan. Remas-remas sebentar, tuang bahan biang sedikit demi sedikit. Aduk selama sekitar 2 menit. Tutup dengan kain bersih. Diamkan selama 20 menit.\n
+            3. Setelah adonan mengembang, taburi tangan dengan tepung terigu. Bagi adonan masing-masing 50 gram. Bentuk bulat-bulat. Beri isian cokelat. Tata adonan di atas paper cup. Diamkan selama 20 menit.\n
+            4. Panaskan kukusan.\n
+            5. Kukus bakpao selama sekitar 20 menit. Angkat dan sajikan.\n
+        </br>
+    </string>
+
+    <string name="article_text_kuepukis">
+        <br>1. Tepung terigu\n
+            2. Gula pasir\n
+            3. Telur utuh\n
+            4. Fermipan\n
+            5. Santan kara\n
+            6. Mentega\n
+            7. ceres secukupnya
+        </br>
+    </string>
+
+    <string name="article_textkuepukis2">
+        <br>1. Campur tepung, gula pasir, garam, dan fermipan aduk rata.\n
+            2. Di wadah lain campur telur dan santan aduk rata dengan wisk.\n
+            3. Tuang santan ke dalam bahan tepung. Aduk hingga tercampur rata, kemudian tutup dengan kain bersih. Diamkan selama 30 menit.\n
+            4. Oles cetakan dengan minyak goreng. Panaskan cetakan dengan api sedang.\n
+            5. Tuangkan adonan ke dalam cetakan. Tuangkan sebanyak ¾ dari cetakan.\n
+            6. Setengah matang, beri topping meses cokelat dan tutup kembali.\n
+            7. Jika sudah matang, angkat dan sajikan.\n
+        </br>
+    </string>
+
+    <string name="article_text_bikaambon">
+        <br>1. Terigu protein sedang\n
+            2. Air kelapa\n
+            3. Ragi instan\n
+            4. Kuning telur\n
+            5. Gula pasir\n
+            6. Sagu\n
+            7. Santan kental\n
+            8. Daun pandan\n
+            9. Daun jeruk\n
+            10.Garam\n
+            11.Vanili\n
+        </br>
+    </string>
+
+    <string name="article_textbikaambon2">
+        <br>1. Rebus santan kental bersama daun pandan dan daun jeruk hingga matang dan agak berminyak.\n
+            2. Biarkan mendingin.Aduk terigu, air kelapa, dan ragi hingga rata, lalu diamkan 15 menit.\n
+            3. Aduk rata terigu, ragi, dan air kelapa. Diamkan 15 menit.\n
+            4. Campurkan telur, garam, dan vanili, aduk rata.\n
+            5. Masukkan larutan ragi, tepung sagu, dan tuang santan sedikit demi sedikit sambil diaduk hingga merata.\n
+            6. Diamkan adonan selama 2 jam, tutup dengan kain bersih.\n
+            7. Lapisi loyang dengan margarin atau minyak tipis-tipis, tuang adonan.\n
+            8. Panggang adonan di suhu 180°C selama 40 menit.\n
+        </br>
+    </string>
+
+
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:id="@+id/cv_resep"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    android:elevation="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/tv_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID Resep"
+            android:textSize="20sp"
+            android:padding="6dp"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/tv_terigu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Terigu"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="6dp"/>
+
+        <TextView
+            android:id="@+id/tv_gula"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gula"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="6dp"/>
+
+        <TextView
+            android:id="@+id/tv_mentega"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mentega"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="6dp"/>
+
+        <TextView
+            android:id="@+id/tv_mauripan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mauripan"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="6dp"/>
+
+        <TextView
+            android:id="@+id/tv_soda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Soda"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="6dp"/>
+
+        <TextView
+            android:id="@+id/tv_panili"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Panili"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="6dp"/>
+
+        <TextView
+            android:id="@+id/tv_airhangat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Air Hangat"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="6dp"/>
+
+
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

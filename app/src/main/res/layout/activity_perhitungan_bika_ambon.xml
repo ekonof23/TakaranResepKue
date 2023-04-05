@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".PerhitunganBikaAmbon">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Takaran Bika Ambon"
+        android:gravity="center"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:textSize="35dp"
+        android:textColor="@color/purple_500"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/edtxt_Gramputuayu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="4dp"
+        android:text="Gram"
+        android:textSize="25dp"/>
+
+    <EditText
+        android:id="@+id/Ed_Grmptay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:hint="Masukkan Gram"
+        android:inputType="textPersonName"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/btn_Hitung"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:text="Hitung"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/edtxt_Terigu"
+        android:text="Terigu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_Terigu"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/edtxt_Gula"
+        android:text="Gula Pasir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_Gl"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/edtxt_TepungMaizena"
+        android:text="TepungMaizena"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_TepungMaizena"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/edtxt_Telur"
+        android:text="Telur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_Telur"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/edtxt_SP"
+        android:text="SP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_SP"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/edtxt_Panili"
+        android:text="Panili"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_Panili"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/txt_Garam"
+        android:text="Garam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_Garam"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/txt_Santan"
+        android:text="Santan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_Santan"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/txt_PastaPandan"
+        android:text="Pasta Pandan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_PastaPandan"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/txt_DaunPandan"
+        android:text="Daun Pandan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="28dp"/>
+
+    <EditText
+        android:id="@+id/Ed_DaunPandan"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp" />
+
+    <Button
+        android:id="@+id/btn_Simpan"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:text="Simpan"
+        android:textSize="20dp" />
+
+    </LinearLayout>
+
+</ScrollView>

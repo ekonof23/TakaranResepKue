@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/drawable/button_profil.xml" value="0.1455" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/drawable/button_shape.xml" value="0.11" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/drawable/textview_shape.xml" value="0.11" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_daftar_perhitungan.xml" value="0.19005524861878453" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_daftar_resep.xml" value="0.17502198768689534" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_histori.xml" value="0.22" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_kue_lumpur.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan.xml" value="0.16" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan1.xml" value="0.21" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_apem_kukus.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_bakpao.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_bika_ambon.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_bolu_kukus.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_bolu_panggang.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_cakwe.xml" value="0.22" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_dadar_gulung.xml" value="0.17815577439570277" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_gelek.xml" value="0.2154793315743184" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_cucur.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_lapis.xml" value="0.22" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_lemet.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_lumpur.xml" value="0.10260416666666666" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_mangkok.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_molen.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_nagasari.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_pukis.xml" value="0.1806375442739079" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_putu_mayang.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_kue_serabi.xml" value="0.10260416666666666" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_onde_onde.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_perhitungan_putu_ayu.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_profil.xml" value="0.22" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_apem_kukus.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_bakpao.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_bika_ambon.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_bolu_kukus.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_bolu_panggang.xml" value="0.14368231046931407" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_cakwe.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_dadar_gulung.xml" value="0.25" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_gelek.xml" value="0.22" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_kue_cucur.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_kue_lapis.xml" value="0.18" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_kue_lemet.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_kue_lumpur.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_kue_mangkok.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_kue_molen.xml" value="0.18" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_kue_nagasari.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_kue_pukis.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_kue_serabi.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_onde_onde.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_putu_ayu.xml" value="0.15338042381432895" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_resep_putu_mayang.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/activity_tambah.xml" value="0.12" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/card_item.xml" value="0.18" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/daftar_resep1" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/layout/putu_ayu.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/mipmap-anydpi-v26/ic_launcher_gelek.xml" value="0.138" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/drawable/bg.xml" value="0.1355" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/drawable/bg2.xml" value="0.1735" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/drawable/bg3.xml" value="0.1735" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/drawable/bg4.xml" value="0.1735" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/drawable/button_profil.xml" value="0.1365" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/drawable/button_shape.xml" value="0.1845" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/drawable/textview_shape.xml" value="0.1845" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/layout/activity_daftar_perhitungan.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/layout/activity_daftar_resep.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/layout/activity_profil.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/layout/activity_resep_apem_kukus.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/EKO/Downloads/Compressed/ResepKue2/app/src/main/res/layout/activity_splash_screen.xml" value="0.20052083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
